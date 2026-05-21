@@ -1,0 +1,8 @@
+maestro-v3.0.0/
+maestro-v3.0.0-midi.zip
+*.npy
+*.pt
+*.mid
+*.mp3
+__pycache__/
+.ipynb_checkpoints/
