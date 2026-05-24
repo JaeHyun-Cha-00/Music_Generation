@@ -1,5 +1,7 @@
 maestro-v3.0.0/
 maestro-v3.0.0-midi.zip
+lmd_full/
+lmd_full.tar.gz
 *.npy
 *.pt
 *.mid
