@@ -8,3 +8,4 @@ lmd_full.tar.gz
 *.mp3
 __pycache__/
 .ipynb_checkpoints/
+lmd_full_filtered/
